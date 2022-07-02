@@ -7,7 +7,7 @@ The sorting algorithms which can be visualized by this are :
 - Quick Sort
 - Merge Sort
 
-The website's User Interface was created using HTML and CSS </br>
-Various animations , effects and core functionalities which include how the sorting algorithms work was implemented using JavaScript. </br>
+The website's User Interface was created using **HTML** and **CSS** </br>
+Various animations , effects and core functionalities which include how the sorting algorithms work was implemented using **JavaScript**. </br>
 </br>
 [Link to Website](https://himanshusortingvisualizer.netlify.app/)
