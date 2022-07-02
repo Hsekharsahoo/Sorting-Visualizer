@@ -12,8 +12,8 @@ async function bubble() {
                 await waitforme(delay);
                 swap(ele[j], ele[j + 1]);
             }
-            ele[j].style.background = 'brown';
-            ele[j + 1].style.background = 'brown';
+            ele[j].style.background = 'red';
+            ele[j + 1].style.background = 'red';
         }
         ele[ele.length - 1 - i].style.background = 'green';
     }
