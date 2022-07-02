@@ -14,5 +14,6 @@ Various animations , effects and core functionalities which include how the sort
 </br>
 Few illustrations : 
 ![Screenshot from 2022-07-02 13-50-38](https://user-images.githubusercontent.com/79087876/176992872-7dfa708a-93f4-4341-b7ea-a9ee495ec40b.png)
+</br>
 ![Screenshot from 2022-07-02 13-51-59](https://user-images.githubusercontent.com/79087876/176992899-464b9e9f-0a0d-46a9-9c31-c29ca118620f.png)
 
